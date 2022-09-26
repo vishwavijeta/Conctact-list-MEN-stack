@@ -1,12 +1,13 @@
 body{
     margin: 0;
     font-family: sans-serif;
+    background: #6f92f9;
 }
 
 #page-heading{
     text-align: center;
     margin-top: 25 px;
-    color:red;
+    color:wheat;
 }
 
 #contacts-list-container{
